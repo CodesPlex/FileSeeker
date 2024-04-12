@@ -4,6 +4,8 @@
 
 FileSeeker(文件探秘者) 是一个根据文件名称查找搜索Python3小工具，希望留下一个Stars谢谢！
 
+![Introduction.png](doc/Introduction.png)
+
 ## 使用场景
 
 1.在某个文件夹里面搜索，不搜索文件夹外的文件
