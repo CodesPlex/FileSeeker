@@ -1,5 +1,7 @@
 # 文件探秘者-FileSeeker
 
+> 我才13岁所有开发能力，谢谢浏览项目，希望可以留下一个**[Stars](https://github.com/CodesPlex/FileSeeker)**谢谢！
+
 ## 项目介绍
 
 FileSeeker(文件探秘者) 是一个根据文件名称查找搜索Python3小工具，希望留下一个Stars谢谢！
@@ -15,6 +17,15 @@ FileSeeker(文件探秘者) 是一个根据文件名称查找搜索Python3小工
 3.命令行类型的工具
 
 4.因为是命令行工具所有可以在Linux中所有
+
+## 目录结构
+
+- doc  项目资源存储文件夹
+- .gitignore 项目忽略文件
+- build.sh 项目打包脚本
+- mian.py 项目核心文件
+- README.md 项目介绍文件
+- requirements.txt 第三方库
 
 ## 项目使用
 
@@ -42,3 +53,8 @@ python main.py
 sh build.sh
 ~~~
 
+## 项目思路
+
+![](doc/mian.drawio.png)
+
+**谢谢你的浏览**
