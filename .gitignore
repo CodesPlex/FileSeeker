@@ -1,1 +1,7 @@
+# idea
 /.idea/*
+
+# pyinstaller
+*.spec
+/build/*
+/dist/*
