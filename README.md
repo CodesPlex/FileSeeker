@@ -57,4 +57,8 @@ sh build.sh
 
 ![](doc/mian.drawio.png)
 
+## 开源协议
+
+**[Apache-2.0 license](https://github.com/CodesPlex/FileSeeker)**
+
 **谢谢你的浏览**
