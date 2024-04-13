@@ -1,6 +1,6 @@
 # 文件探秘者-FileSeeker
 
-> 我才13岁所有开发能力，谢谢浏览项目，希望可以留下一个[Stars](https://github.com/CodesPlex/FileSeeker)谢谢！
+> 我才13岁开发能力有限，谢谢浏览项目，希望可以留下一个[Stars](https://github.com/CodesPlex/FileSeeker)谢谢！
 
 ## 项目介绍
 
