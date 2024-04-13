@@ -5,3 +5,6 @@
 *.spec
 /build/*
 /dist/*
+
+# draw.io
+/doc/.$mian.drawio.bkp
